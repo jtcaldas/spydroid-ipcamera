@@ -3,7 +3,7 @@
 
     <string name="options">Options</string>
     <string name="quit">Quitter</string>
-    <string name="app_name">Spydroid</string>
+    <string name="app_name">spydroid</string>
     <string name="description">Accède à distance à la camera et au micro de ton smartphone avec Spydroid</string>
     <string name="line1">Dans chrome ou firefox recopie</string>
     <string name="line2">Dans VLC ouvre</string>
